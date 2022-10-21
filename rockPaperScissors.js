@@ -37,4 +37,4 @@ function rockPaperScissors(playerTurn, computerTrun ,) {
         console.log("This game was a draw!");
     }
 }
-rockPaperScissors()
+rockPaperScissors("r")
